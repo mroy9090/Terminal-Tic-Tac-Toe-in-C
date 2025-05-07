@@ -57,9 +57,7 @@ Player 1's move: 5
 
 
 
-📄 License
 
-This project is provided for learning and academic use. You are welcome to contribute or use it for educational demonstrations.
 
 
 
